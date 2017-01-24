@@ -1,3 +1,5 @@
-http://blog.csdn.net/superjimmy/article/details/51626842
+参考资料:
+
+http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html
 
 
